@@ -1,5 +1,3 @@
-# MLB-Batting-Avg-vs.-Home-Runs-Analysis
-
 # Do MLB teams win more with a higher batting average or more home runs?
 
 Analysis of 150 MLB team-seasons (2018-2023, excluding the 2020 shortened season).
